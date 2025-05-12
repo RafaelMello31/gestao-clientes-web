@@ -45,7 +45,7 @@ cliente-gestao/
 
 ## 🎓 Sobre o projeto
 
-Este projeto foi desenvolvido como parte de uma atividade prática da disciplina de **Interface Web**, com foco em:
+Este projeto foi desenvolvido como parte de uma atividade prática da disciplina de **Análise de Desempenho de Sistemas**, com foco em:
 
 - Navegação entre páginas usando parâmetros na URL
 - Simulação de dados com JavaScript
