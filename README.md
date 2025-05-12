@@ -25,10 +25,15 @@ Este é um protótipo web simples desenvolvido para fins acadêmicos. O objetivo
 ## 📁 Estrutura de Arquivos
 
 cliente-gestao/
+
 ├── index.html # Lista de empresas
+
 ├── empresa.html # Ficha de uma empresa
+
 ├── contato.html # Contato principal da empresa
+
 ├── style.css # Estilos visuais
+
 └── script.js # Validações e carregamento de dados
 
 ## 🚀 Como testar
